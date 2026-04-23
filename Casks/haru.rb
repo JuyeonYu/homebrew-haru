@@ -1,6 +1,6 @@
 cask "haru" do
-  version "1.1.5"
-  sha256 "c39e0cfd92296c4b657fd72431dbd7d7feae5330d5bbffd9b77a18553fabf0ea"
+  version "1.1.6"
+  sha256 "f6969188ca30ea9cb1fa74f9605cd7c276eebd9a453347b79a0619a16cf0d3fb"
 
   url "https://github.com/JuyeonYu/haru/releases/download/v#{version}/haru.zip"
   name "haru"
